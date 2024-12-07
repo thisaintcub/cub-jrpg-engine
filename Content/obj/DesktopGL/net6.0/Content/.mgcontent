@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/sc/shy jrpg engine/Content/art/char/Basic Charakter Spritesheet.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/obj/Basic_Furniture.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/obj/Basic_Grass_Biom_things.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/obj/Basic_Plants.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/obj/Basic_tools_and_meterials.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/obj/Chest.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/obj/Egg_item.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/obj/Free_Chicken_House.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/obj/Paths.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/obj/Simple_Milk_and_grass_item.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/obj/Wood_Bridge.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/outside/Fences.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/outside/Grass.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/outside/Hills.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/outside/Tilled_Dirt_v2.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/outside/Tilled_Dirt_Wide_v2.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/outside/Tilled_Dirt_Wide.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/outside/Tilled_Dirt.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/outside/Water.png</File>
+    <File>E:/sc/shy jrpg engine/Content/art/tilesets/outside/Wooden House.png</File>
+    <File>E:/sc/shy jrpg engine/Content/audio/music/m.ogg</File>
+    <File>E:/sc/shy jrpg engine/Content/audio/sfx/matt.ogg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

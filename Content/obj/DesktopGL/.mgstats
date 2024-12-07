@@ -1,0 +1,23 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/sc/shy jrpg engine/Content/art/char/Basic Charakter Spritesheet.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/char/Basic Charakter Spritesheet.xnb","TextureProcessor","Texture2DContent",2097,147541,0.1067665
+"E:/sc/shy jrpg engine/Content/art/tilesets/obj/Basic_Furniture.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/obj/Basic_Furniture.xnb","TextureProcessor","Texture2DContent",3397,55381,0.0027219
+"E:/sc/shy jrpg engine/Content/art/tilesets/obj/Basic_Grass_Biom_things.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/obj/Basic_Grass_Biom_things.xnb","TextureProcessor","Texture2DContent",6129,46165,0.0024195
+"E:/sc/shy jrpg engine/Content/art/tilesets/obj/Basic_Plants.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/obj/Basic_Plants.xnb","TextureProcessor","Texture2DContent",2244,12373,0.0014047
+"E:/sc/shy jrpg engine/Content/art/tilesets/obj/Basic_tools_and_meterials.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/obj/Basic_tools_and_meterials.xnb","TextureProcessor","Texture2DContent",1474,6229,0.0014048
+"E:/sc/shy jrpg engine/Content/art/tilesets/obj/Chest.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/obj/Chest.xnb","TextureProcessor","Texture2DContent",1774,92245,0.0053767
+"E:/sc/shy jrpg engine/Content/art/tilesets/obj/Egg_item.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/obj/Egg_item.xnb","TextureProcessor","Texture2DContent",270,1109,0.0016885
+"E:/sc/shy jrpg engine/Content/art/tilesets/obj/Free_Chicken_House.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/obj/Free_Chicken_House.xnb","TextureProcessor","Texture2DContent",1113,9301,0.0009688
+"E:/sc/shy jrpg engine/Content/art/tilesets/obj/Paths.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/obj/Paths.xnb","TextureProcessor","Texture2DContent",622,16469,0.0009877
+"E:/sc/shy jrpg engine/Content/art/tilesets/obj/Simple_Milk_and_grass_item.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/obj/Simple_Milk_and_grass_item.xnb","TextureProcessor","Texture2DContent",628,4181,0.0010637
+"E:/sc/shy jrpg engine/Content/art/tilesets/obj/Wood_Bridge.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/obj/Wood_Bridge.xnb","TextureProcessor","Texture2DContent",706,15445,0.0016488
+"E:/sc/shy jrpg engine/Content/art/tilesets/outside/Fences.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/outside/Fences.xnb","TextureProcessor","Texture2DContent",483,16469,0.0012046
+"E:/sc/shy jrpg engine/Content/art/tilesets/outside/Grass.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/outside/Grass.xnb","TextureProcessor","Texture2DContent",3765,78933,0.0025134
+"E:/sc/shy jrpg engine/Content/art/tilesets/outside/Hills.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/outside/Hills.xnb","TextureProcessor","Texture2DContent",4321,78933,0.0031573
+"E:/sc/shy jrpg engine/Content/art/tilesets/outside/Tilled_Dirt_v2.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/outside/Tilled_Dirt_v2.xnb","TextureProcessor","Texture2DContent",2287,78933,0.0021011
+"E:/sc/shy jrpg engine/Content/art/tilesets/outside/Tilled_Dirt_Wide_v2.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/outside/Tilled_Dirt_Wide_v2.xnb","TextureProcessor","Texture2DContent",1717,78933,0.0023923
+"E:/sc/shy jrpg engine/Content/art/tilesets/outside/Tilled_Dirt_Wide.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/outside/Tilled_Dirt_Wide.xnb","TextureProcessor","Texture2DContent",2522,78933,0.0045069
+"E:/sc/shy jrpg engine/Content/art/tilesets/outside/Tilled_Dirt.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/outside/Tilled_Dirt.xnb","TextureProcessor","Texture2DContent",2972,78933,0.0053312
+"E:/sc/shy jrpg engine/Content/art/tilesets/outside/Water.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/outside/Water.xnb","TextureProcessor","Texture2DContent",251,4181,0.0009215
+"E:/sc/shy jrpg engine/Content/art/tilesets/outside/Wooden House.png","E:/sc/shy jrpg engine/Content/bin/DesktopGL/art/tilesets/outside/Wooden House.xnb","TextureProcessor","Texture2DContent",1784,35925,0.0014601
+"E:/sc/shy jrpg engine/Content/audio/music/m.ogg","E:/sc/shy jrpg engine/Content/bin/DesktopGL/audio/music/m.xnb","SongProcessor","SongContent",793666,119,0.3370133
+"E:/sc/shy jrpg engine/Content/audio/sfx/matt.ogg","E:/sc/shy jrpg engine/Content/bin/DesktopGL/audio/sfx/matt.xnb","SoundEffectProcessor","SoundEffectContent",5436,11113,0.0955861
