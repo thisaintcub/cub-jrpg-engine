@@ -50,8 +50,7 @@ namespace shy_jrpg_engine.src.objects {
             hitbox.SetData(data);
         }
 
-        public void Show()
-        {
+        public void Show() {
             hitbox = new Texture2D(Globals.graphicsManager.GraphicsDevice, width, height);
             data = new Color[width * height];
             for (int i = 0; i < data.Length; i++)

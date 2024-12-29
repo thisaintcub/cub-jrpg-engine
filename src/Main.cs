@@ -20,15 +20,14 @@ using shy_jrpg_engine.src.scenes;
 using shy_jrpg_engine.src.engine.api;
 #endregion
 
-namespace shy_jrpg_engine
-{
+namespace shy_jrpg_engine {
     public class Main : Game {
         private DiscordRPC.EventHandlers handlers = default(DiscordRPC.EventHandlers);
 
         public Main() {
             Globals.graphicsManager = new GraphicsDeviceManager(this);
             Globals.sceneManager = new();
-            Content.RootDirectory = "Content";
+            Content.RootDirectory = "gamecontent";
             IsMouseVisible = true;
         }
 

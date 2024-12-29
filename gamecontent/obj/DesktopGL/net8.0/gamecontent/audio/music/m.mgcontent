@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/sc/shy-jrpg-engine/gamecontent/audio/music/m.ogg</SourceFile>
+  <SourceTime>2024-07-18T20:58:52.2125159-06:00</SourceTime>
+  <DestFile>E:/sc/shy-jrpg-engine/gamecontent/bin/DesktopGL/gamecontent/audio/music/m.xnb</DestFile>
+  <DestTime>2024-12-13T02:55:25.656437-07:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2022-07-26T05:44:56-06:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T05:44:56-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>E:/sc/shy-jrpg-engine/gamecontent/bin/DesktopGL/gamecontent/audio/music/m.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

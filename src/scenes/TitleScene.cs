@@ -27,7 +27,7 @@ namespace shy_jrpg_engine.src.scenes {
         bool intransition = false;
         SoundEffect confirm;
 
-        public TitleScene() {}
+        public TitleScene() { }
 
         public void Load() {
             confirm = Globals.contentManager.Load<SoundEffect>(Paths.sfx("matt"));

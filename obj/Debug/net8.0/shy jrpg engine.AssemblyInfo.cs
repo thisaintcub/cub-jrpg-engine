@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("shy jrpg engine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad95d88868e634decedc11abdd7823d4f659f1cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("shy jrpg engine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("shy jrpg engine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -18,31 +18,25 @@ using shy_jrpg_engine.src.objects;
 using shy_jrpg_engine.src.scenes;
 #endregion
 
-namespace shy_jrpg_engine.src.engine.scene
-{
-    public class SceneManager
-    {
+namespace shy_jrpg_engine.src.engine.scene {
+    public class SceneManager {
         private readonly Stack<IScene> sceneStack;
 
-        public SceneManager()
-        {
+        public SceneManager() {
             sceneStack = new();
         }
 
-        public void AddScene(IScene scene)
-        {
+        public void AddScene(IScene scene) {
             scene.Load();
 
             sceneStack.Push(scene);
         }
 
-        public void RemoveScene(IScene scene)
-        {
+        public void RemoveScene(IScene scene) {
             sceneStack.Pop();
         }
 
-        public IScene CurrentScene()
-        {
+        public IScene CurrentScene() {
             return sceneStack.Peek();
         }
     }

@@ -4,10 +4,8 @@ using System.Runtime.InteropServices;
 using shy_jrpg_engine.src.engine;
 #endregion
 
-namespace shy_jrpg_engine.src.engine.api
-{
-    public class DiscordRPC
-    {
+namespace shy_jrpg_engine.src.engine.api {
+    public class DiscordRPC {
         [DllImport("discord-rpc.dll", CallingConvention = CallingConvention.Cdecl, EntryPoint = "Discord_Initialize")]
         public static extern void Initialize(string applicationId, ref EventHandlers handlers, bool autoRegister, string optionalSteamId);
         [DllImport("discord-rpc.dll", CallingConvention = CallingConvention.Cdecl, EntryPoint = "Discord_RunCallbacks")]
@@ -17,8 +15,7 @@ namespace shy_jrpg_engine.src.engine.api
         [DllImport("discord-rpc.dll", CallingConvention = CallingConvention.Cdecl, EntryPoint = "Discord_UpdatePresence")]
         public static extern void UpdatePresence(ref RichPresence presence);
 
-        internal static void Initialize(string v1, ref object handlers, bool v2, object p)
-        {
+        internal static void Initialize(string v1, ref object handlers, bool v2, object p) {
             throw new NotImplementedException();
         }
 
@@ -26,8 +23,7 @@ namespace shy_jrpg_engine.src.engine.api
         public delegate void DisconnectedCallback(int errorCode, string message);
         [UnmanagedFunctionPointer(CallingConvention.Cdecl)]
         public delegate void ErrorCallback(int errorCode, string message);
-        public struct EventHandlers
-        {
+        public struct EventHandlers {
             public ReadyCallback readyCallback;
             public DisconnectedCallback disconnectedCallback;
             public ErrorCallback errorCallback;
@@ -37,8 +33,7 @@ namespace shy_jrpg_engine.src.engine.api
         public delegate void ReadyCallback();
         [Serializable]
 
-        public struct RichPresence
-        {
+        public struct RichPresence {
             public string state;
             public string details;
             public long startTimestamp;
@@ -56,9 +51,7 @@ namespace shy_jrpg_engine.src.engine.api
             public bool instance;
         }
 
-        internal static void changePresence(string details, string smallImageKey, bool? hasStartTimestamp, float? endTimestamp)
-        {
-
+        internal static void changePresence(string details, string smallImageKey, bool? hasStartTimestamp, float? endTimestamp) {
             //laterrrr
             //var startTimestamp:Float = if (hasStartTimestamp) Date.now().getTime() else 0;
             //if (endTimestamp > 0)
