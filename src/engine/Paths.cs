@@ -14,6 +14,6 @@ class Paths {
     }
 
     public static string tilemap(string path) {
-        return "Content/maps/" + path + ".tmx";
+        return "gamecontent/maps/" + path + ".tmx";
     }
 }
