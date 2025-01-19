@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cub jrpg engine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f95592f3aaf91948bc4516d077cdb86e2fde2f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ed9777bfba4700605c02b43e894d01903c102fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("cub jrpg engine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cub jrpg engine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
