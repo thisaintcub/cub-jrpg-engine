@@ -13,13 +13,13 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 using input;
 using System.Data;
-using shy_jrpg_engine.src.sprites;
-using shy_jrpg_engine.src.engine;
-using shy_jrpg_engine.src.objects;
-using shy_jrpg_engine.src.scenes;
+using cub_jrpg_engine.src.sprites;
+using cub_jrpg_engine.src.engine;
+using cub_jrpg_engine.src.objects;
+using cub_jrpg_engine.src.scenes;
 #endregion
 
-namespace shy_jrpg_engine.src.sprites {
+namespace cub_jrpg_engine.src.sprites {
     public class Sprite {
         public Texture2D texture;
         public Vector2 position, origin;

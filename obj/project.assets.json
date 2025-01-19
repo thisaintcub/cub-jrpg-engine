@@ -136,11 +136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\sc\\shy-jrpg-engine\\shy jrpg engine.csproj",
-      "projectName": "shy jrpg engine",
-      "projectPath": "E:\\sc\\shy-jrpg-engine\\shy jrpg engine.csproj",
+      "projectUniqueName": "E:\\sc\\cub-jrpg-engine\\cub jrpg engine.csproj",
+      "projectName": "cub jrpg engine",
+      "projectPath": "E:\\sc\\cub-jrpg-engine\\cub jrpg engine.csproj",
       "packagesPath": "C:\\Users\\shyll\\.nuget\\packages\\",
-      "outputPath": "E:\\sc\\shy-jrpg-engine\\obj\\",
+      "outputPath": "E:\\sc\\cub-jrpg-engine\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shyll\\AppData\\Roaming\\NuGet\\NuGet.Config",

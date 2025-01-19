@@ -1,4 +1,4 @@
-namespace shy_jrpg_engine.src.engine;
+namespace cub_jrpg_engine.src.engine;
 
 class Paths {
     public static string image (string path) {

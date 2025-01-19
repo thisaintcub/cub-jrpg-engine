@@ -1,10 +1,10 @@
 ﻿#region Includes
 using System;
 using System.Runtime.InteropServices;
-using shy_jrpg_engine.src.engine;
+using cub_jrpg_engine.src.engine;
 #endregion
 
-namespace shy_jrpg_engine.src.engine.api {
+namespace cub_jrpg_engine.src.engine.api {
     public class DiscordRPC {
         [DllImport("discord-rpc.dll", CallingConvention = CallingConvention.Cdecl, EntryPoint = "Discord_Initialize")]
         public static extern void Initialize(string applicationId, ref EventHandlers handlers, bool autoRegister, string optionalSteamId);

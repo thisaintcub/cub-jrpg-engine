@@ -13,16 +13,16 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 using input;
 using System.Data;
-using shy_jrpg_engine.src.sprites;
-using shy_jrpg_engine.src.engine;
-using shy_jrpg_engine.src.objects;
-using shy_jrpg_engine.src.scenes;
-using shy_jrpg_engine.src.engine.api;
+using cub_jrpg_engine.src.sprites;
+using cub_jrpg_engine.src.engine;
+using cub_jrpg_engine.src.objects;
+using cub_jrpg_engine.src.scenes;
+using cub_jrpg_engine.src.engine.api;
 using DotTiled;
 using DotTiled.Serialization;
 #endregion
 
-namespace shy_jrpg_engine.src.tilemaps {
+namespace cub_jrpg_engine.src.tilemaps {
     public class TileMap {
         Map tilemap;
         Loader loader = Loader.Default();

@@ -13,16 +13,16 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 using input;
 using System.Data;
-using shy_jrpg_engine.src.sprites;
-using shy_jrpg_engine.src.engine;
-using shy_jrpg_engine.src.objects;
-using shy_jrpg_engine.src.scenes;
-using shy_jrpg_engine.src.engine.scene;
+using cub_jrpg_engine.src.sprites;
+using cub_jrpg_engine.src.engine;
+using cub_jrpg_engine.src.objects;
+using cub_jrpg_engine.src.scenes;
+using cub_jrpg_engine.src.engine.scene;
 using System.Diagnostics;
-using shy_jrpg_engine.src.engine.api;
+using cub_jrpg_engine.src.engine.api;
 #endregion
 
-namespace shy_jrpg_engine.src.scenes {
+namespace cub_jrpg_engine.src.scenes {
     public class TestScene : IScene {
         Character player;
         Hitbox playerHitbox;
