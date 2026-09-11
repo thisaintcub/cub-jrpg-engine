@@ -1,2 +1,2 @@
-# shy jrpg engine
+# cub jrpg engine
  
